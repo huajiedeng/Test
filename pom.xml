@@ -52,5 +52,5 @@
 		</plugins>
 	</build>
 
-dev
+dev+dev2
 </project>
